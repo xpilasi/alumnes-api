@@ -1,32 +1,3 @@
-<<<<<<< HEAD
-{
-    "alumnes": [
-        {
-            "id": 1,
-            "nom": "Esther",
-            "cognoms": "Ribes Penya",
-            "nota": 7.5
-        },
-        {
-            "id": 2,
-            "nom": "Joan",
-            "cognoms": "Castanyera Raventós",
-            "nota": 6
-        },
-        {
-            "id": 3,
-            "nom": "Marta",
-            "cognoms": "Puig Abella",
-            "nota": 6
-        },
-        {
-            "id": 4,
-            "nom": "Pere",
-            "cognoms": "Ribalta Nieto",
-            "nota": 7
-        }
-    ]
-=======
 {
     "alumnes": [
         {
@@ -64,7 +35,12 @@
             "nom": "Míriam",
             "cognoms": "Estruga Sánchez",
             "nota": 6
+        },
+        {
+            "id": 7,
+            "nom": "Xenia",
+            "cognoms": "Perez Lecha",
+            "nota": 7
         }
     ]
->>>>>>> 25fc2c24299daf430dccdd73d6955b202f844020
 }
